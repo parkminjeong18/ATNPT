@@ -1,0 +1,103 @@
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:pink;
+text-align: center;  
+
+
+
+}
+
+
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:pink;
+text-align: center;
+
+}
+
+body{
+    background-image: linear-gradient(to left, purple , black  );
+}
+
+
+h2{
+    text-align: center;
+    color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 25px;
+}
+
+
+
+li{
+text-align: center;
+color: violet;
+margin-right: 3rem;
+list-style-position: inside;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:pink;
+text-align: center;
+
+
+
+
+}
+
+
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:pink;
+text-align: center;
+
+
+
+}
+
+img{
+display: block;
+margin-top: 2rem;
+margin-left: 20rem;
+
+}
+     
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:pink;
+text-align: center;
+
+
+}
+
+input{
+
+    text-align: center;
+    margin-left: 500px;
+    
+}
+
+button{
+cursor: pointer;
+color:black;
+
+}
+
+li{
+font-size: 2rem;
+
+
+
+
+}
